@@ -151,8 +151,7 @@ Rana Singh
  Data Scientist | Machine Learning Enthusiast | Python Developer
 
 If you found this project helpful, don't forget to ⭐ star this repository!
-Project Report 
-(file_0000000012a472079768c9d4f230e9c1.png)
+
 
 ## Project Report 
 
